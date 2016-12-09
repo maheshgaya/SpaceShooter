@@ -1,5 +1,7 @@
-# Gaya13
-Final Assignment - Space Shooter Game
+# Space Shooter Game
+Final Unity Assignment - Space Shooter Game
+
+This project is a Space Shooter Game. The gamer shoots asteroids with their amazing space shuttle. If the shuttle collides with an asteroid, the game is over. Furthermore, each time the gamer scores 100 points, the level increases by 1 and the number of spawned asteroids increases by 5.
 
 ## Using the Project
 1. Clone the project
