@@ -7,8 +7,8 @@ This project is a Space Shooter Game. The gamer shoots asteroids with their amaz
 1. Clone the project
   
   ```
-  $ git clone "https://github.com/maheshgaya/Gaya13.git"
-  $ cd Gaya13/
+  $ git clone "https://github.com/maheshgaya/SpaceShooter.git"
+  $ cd SpaceShooter/
   ```
 2. Double click on the .app file to open the game
 
